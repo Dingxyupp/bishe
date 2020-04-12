@@ -1,0 +1,138 @@
+@import "common.css";
+html,body{
+    width: 100%;
+    height: 100%;
+}
+a{
+    text-decoration: none!important;
+}
+header{
+    background: rgba(245,245,245,0.7);
+}
+.header_shop{
+    color: #0057ba;
+}
+#serve_serve,#serve_about,#serve_ask,#serve_search,#serve_user,#serve_list{
+    color: #3c763d;
+}
+#serve_serve:hover,#serve_shop:hover,#serve_about:hover,#serve_ask:hover,#serve_search:hover,#serve_user:hover,#serve_list:hover{
+    color:#e40b21;
+}
+.mall_main{
+    margin: 160px auto 60px auto;
+    width: 90vw;
+    height: auto;
+    overflow: hidden;
+}
+.mall_main_left{
+    float: left;
+    width: 25%;
+    height: 100%;
+    /*border-right: 1px solid #e1e1e1;*/
+}
+.mall_search{
+    width:100%;
+    height:40px;
+}
+.mall_search button{
+    width:100%;
+    height:100%;
+}
+#search_input{
+    float:left;
+    width:80%;
+}
+#search_submit{
+    float:right;
+    width: 20%;
+}
+.mall_other_three{
+    margin: 20px 0;
+}
+.layui-btn{
+    font-size: 25px;
+    display:block;
+    width: 100%;
+    height:100%;
+    text-align: center;
+}
+.layui-colla-title{
+    font-weight: 600;
+    font-size: 16px
+}
+.layui-colla-content p{
+    margin:10px auto;
+    font-size: 16px;
+}
+.layui-colla-content p:hover{
+    color: #2fc48d;
+}
+.category-a{
+    display: block;
+    width: 100%;
+    height:100%;
+}
+.mall_main_right{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    float: left;
+    width: 75%;
+    height: 100%;
+    overflow: hidden;
+}
+.mall_main_right li{
+    height: 50%;
+    width: 270px;
+    margin-bottom: 40px;
+}
+.mall_main_right_a{
+    padding: 20px 50px;
+    display: block;
+    width: 100%;
+    height: 50%;
+}
+.mall_main_right_a img{
+    width: 100%;
+    height: 100%;
+}
+.extend_basic:hover{
+    transition: all ease-in 0.5s ;
+    margin:30px 20px;
+    border:1px solid rgba(0,0,0,0.3);
+}
+.mall_main_right_feature{
+    margin-top: 20px;
+}
+.mall_main_right_feature p{
+    margin: 30px;
+}
+#demo{
+    text-align: center;
+    margin-top: 50px;
+}
+.arrow_around{
+    float:right;
+    width: 50px;
+    height:50px;
+    text-align: center;
+    line-height: 50px;
+    background: rgba(128,128,128,0.08);
+}
+.arrow{
+    font-size: 25px;
+    color:#2fc48d;
+}
+.arrow_around:hover{
+    background: rgb(47, 196, 141);
+}
+.arrow_around:hover .arrow{
+    color:white;
+    z-index: 999;
+}
+.arrow_around_a{
+    width: 100%;
+    height:100%;
+    display: block;
+}

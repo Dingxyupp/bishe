@@ -1,0 +1,92 @@
+@import "common.css";
+@import "mall.css";
+@import "goodsdetail.css";
+.shopping_list{
+    margin: 150px 0 50px 0;
+    padding: 20px 130px;
+}
+.shop_car_main{
+    width: 100%;
+    height:auto;
+    background: url('https://www.dulux.com.cn/profiles/flourish/themes/custom/flourish_rem/images/vertical-shade.jpg');
+}
+.goods_show{
+    margin: 0 auto 0 auto;
+    width: 80%;
+    height:400px;
+    background: #f7f7f7;
+}
+.goods_img{
+    margin:60px;
+    height:280px;
+    float: left;
+}
+.goods_img_p{
+    font-size: 17px;
+    font-weight: 600;
+    margin: 20px 20px 50px 20px;
+}
+.goods_name_L{
+    margin:60px;
+    height:280px;
+    float: left;
+}
+.goods_name_L_p{
+    font-size: 17px;
+    font-weight: 600;
+    margin: 20px 20px 50px 20px;
+}
+.goods_pack{
+    padding-top: 40px;
+    margin: 20px;
+}
+.goods_color{
+    margin:60px;
+    height:280px;
+    float: left;
+}
+.goods_color_p{
+    font-size: 17px;
+    font-weight: 600;
+    margin: 20px 20px 50px 20px;
+}
+.goods_color_explain{
+    padding-top: 40px;
+    margin: 20px;
+}
+.goods_count{
+    margin:60px;
+    height:280px;
+    width: 260px;
+    float: left;
+}
+.goods_count_p{
+    font-size: 17px;
+    font-weight: 600;
+    margin: 20px 20px 50px 20px;
+}
+.goods_count_form{
+    padding-top: 15px;
+    margin: 20px;
+}
+.goods_price{
+    margin-top: 30px;
+    color:#e40b21;
+    font-size: 17px;
+    font-weight: 600;
+}
+.goods_delete{
+    margin-top: 40px;
+    width: 80px;
+    height:auto;
+    float: right;
+}
+.goods_delete_button{
+    width: 100%;
+    font-size: 15px;
+}
+.goods_settlement{
+    width: 6%;
+    margin: 40px 0 0 90%;
+    overflow: hidden;
+}

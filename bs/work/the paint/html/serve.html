@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../js/swiper.min.js"></script>
+    <link rel="stylesheet" href="../css/index.css">
+    <link rel="stylesheet" href="../css/swiper.min.css">
+    <link rel="stylesheet" href="../layui/css/layui.css">
+    <link rel="stylesheet" href="../css/serve.css">
+</head>
+<body>
+<header>
+    <img src="../img/ook.png" alt="" class="logo">
+    <a href="serve.html" class="hide_list1"><span class="header_serve" id="serve_serve">服务</span>
+        <div class="list1">
+            <li>
+                <object><a href=""><img src="../img/th.jpg" alt="" class="list_img" ></a></object>
+                <object><a href=""><p class="list_p">标题2</p></a></object>
+            </li>
+        </div>
+    </a>
+    <a href="shop.html" class="hide_list2"><span class="header_shop" id="serve_shop">商城</span>
+        <div class="list2">
+            <li>
+                <object><a href=""><img src="../img/th.jpg" alt="" class="list_img"></a></object>
+                <object><a href=""><p class="list_p">标题2</p></a></object>
+            </li>
+        </div></a>
+    <a href="" class="hide_list3"><span class="header_ask" id="serve_ask">咨询</span>
+        <div class="list3">
+            <li>
+                <object><a href=""><img src="../img/th.jpg" alt="" class="list_img"></a></object>
+                <object><a href=""><p class="list_p">标题2</p></a></object>
+            </li>
+        </div></a>
+    <a href="" class="hide_list4"><span class="header_about" id="serve_about">关于品牌</span>
+        <div class="list4">
+            <li>
+                <object><a href=""><img src="../img/th.jpg" alt="" class="list_img"></a></object>
+                <object><a href=""><p class="list_p">标题2</p></a></object>
+            </li>
+        </div></a>
+    <a href=""><span><i id="serve_search" class="layui-icon layui-icon-search header_a_search"></i></span></a>
+    <a href="" ><span><i id="serve_list" class="layui-icon layui-icon-cart-simple header_a_cart"></i></span></a>
+    <a href=""><span><i id="serve_user" class="layui-icon layui-icon-user header_a_user"></i></span></a>
+</header>
+<div class="swiper-container">
+    <div class="swiper-wrapper">
+        <div class="swiper-slide"><img src="../img/serve2.jpg" alt="" class="swiper_img1"></div>
+        <div class="swiper-slide"><img src="../img/serve.jpg" alt="" class="swiper_img2"></div>
+<!--        <div class="swiper-slide"><img src="../img/demo3.jpg" alt="" class="swiper_img3"></div>-->
+    </div>
+    <!-- 如果需要导航按钮 -->
+    <!--  <div class="swiper-button-prev"></div>-->
+    <!--  <div class="swiper-button-next"></div>-->
+</div>
+<h3>请填写以下数据来选择服务</h3>
+<div class="serve_input" lay-filter="test1">
+    <form class="layui-form" action="">
+        <div class="layui-form-item">
+            <label class="layui-form-label">姓名</label>
+            <div class="layui-input-block">
+                <input type="text" name="name"   lay-verify="required|username" placeholder="请输入您的姓名" autocomplete="open" class="layui-input">
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label">手机号</label>
+            <div class="layui-input-block">
+                <input type="text" name="tel"   lay-verify="required|phone" placeholder="请输入您的手机号" autocomplete="off" class="layui-input">
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label">性别</label>
+            <div class="layui-input-block">
+                <input type="radio" name="sex" value="男" title="男">
+                <input type="radio" name="sex" value="女" title="女" checked>
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label">地址</label>
+            <div class="layui-input-inline">
+                <select name="province" id="province" lay-filter="province">
+                    <option value="" selected="">请选择省</option>
+                </select>
+            </div>
+            <div class="layui-input-inline" id="layui-input-inline-city">
+                <select name="city" id="city" lay-filter="city">
+                    <option value="" selected>请选择城市</option>
+                </select>
+            </div>
+            <div class="layui-input-inline" id="layui-input-inline-county">
+                <select name="county" id="county" lay-filter="county">
+                    <option value="" selected>请选择县/区</option>
+                </select>
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label">详细地址</label>
+            <div class="layui-input-block">
+                <input type="text" name="name"   required placeholder="请输入您的家庭地址" autocomplete="open" class="layui-input">
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label">服务</label>
+            <div class="layui-input-block">
+                <input type="checkbox" name="serve_white" title="刷新服务">
+                <input type="checkbox" name="serve_test" title="专业墙面基检">
+            </div>
+        </div>
+        <div class="layui-form-item layui-form-text">
+            <label class="layui-form-label">备注</label>
+            <div class="layui-input-block">
+                <textarea name="desc" placeholder="请输入内容" class="layui-textarea"></textarea>
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <div class="layui-input-block" style="text-align: center">
+                <button class="layui-btn" lay-submit lay-filter="formDemo">提交</button>
+            </div>
+        </div>
+    </form>
+</div>
+<div class="serve_example"><span>精选案例</span></div>
+<div class="serve_show">
+    <div class="serve_show_top">
+        <a href=""><img src="../img/serve_top.jpg" alt=""></a>
+    </div>
+    <div class="serve_show_down">
+        <a href=""><img src="../img/case_tit1.jpg" alt=""></a>
+        <a href=""><img src="../img/case_tit2.jpg" alt=""></a>
+        <a href=""><img src="../img/case_tit3.jpg" alt=""></a>
+        <a href=""><h3 class="serve_show_down_vertical">查看更多</h3></a>
+    </div>
+</div>
+<footer>
+    <p style="text-align: center">获取更多&nbsp:<a href="https://weibo.com/"><img src="../img/wb.png" alt=""></a><a
+            href="" class="wx_hover"><img
+            src="../img/dxy.png" alt="" class="codeleft"><img src="../img/wx.png" alt="" class="wxpicture"></a></p>
+    <h3>联系我们&nbsp:000-000-000</h3>
+</footer>
+<script src="../layui/layui.js"></script>
+<script src="../js/mouseEvent.js"></script>
+<script type="module">
+    import address from '../js/address.js'//导入地址文件
+
+    let select_province_value,select_city_value,select_county_value;//三个选择框的值
+    let ades=address.provice;//导入的地址数组
+    let select_province=document.getElementById("province");//省份select
+    let select_city=document.getElementById("city");//城市select
+    let select_county=document.getElementById("county");//县区select
+    for(let i=0;i<ades.length;i++){
+        let opo=document.createElement("option");
+        opo.innerText=ades[i].name;
+        opo.value=ades[i].name;
+        select_province.appendChild(opo);
+    }
+    //定义插入函数
+    layui.use(['form', 'element', 'laypage', 'layer'], function () {
+        var element = layui.element,
+            laypage = layui.laypage,
+            layer = layui.layer,
+            form = layui.form;
+        //自定义样式
+        laypage.render({
+            elem: 'demo'
+            , count: 100
+            , theme: '#1E9FFF',
+            prev: null,
+            next: null
+        })
+        //监听省份select
+        form.on('select(province)', function(data){
+            select_province_value=data.value;//得到被选中的值
+            //当选定了省份之后可以根据省份名来确定城市名
+            ades.forEach(v=>{
+                if(v.name===select_province_value){
+                    select_city.innerHTML=`
+                     <option value="" selected>请选择城市</option>
+                    `;//将前边设置的option清除掉，只显示当前省份的城市
+                    select_county.innerHTML=`
+                     <option value="" selected>请选择区/县</option>
+                    `;//将前边设置的option清除掉，只显示当前城市的区县
+                    v.city.forEach(t=>{
+                        let opo=document.createElement("option");
+                        opo.innerText=t.name;
+                        opo.value=t.name;
+                        select_city.appendChild(opo);
+                    })
+                }
+            })
+            form.render();//动态操作表单   自动更新渲染
+        });
+        //监听城市select
+        form.on('select(city)', function(data){
+           select_city_value=data.value;
+           //当城市确定后找出区县
+            ades.forEach(v=>{
+                if(v.name===select_province_value){
+                    select_county.innerHTML=`
+                     <option value="" selected>请选择区县</option>
+                    `;//将前边设置的option清除掉，只显示当前城市的区县
+                    v.city.forEach(t=>{
+                        if(select_city_value===t.name){
+                            t. districtAndCounty.forEach(m=>{
+                                let opo=document.createElement("option");
+                                opo.innerText=m;
+                                opo.value=m;
+                                select_county.appendChild(opo);
+                            })
+                        }
+                    })
+                }
+            });
+            form.render();//动态操作表单   自动更新渲染
+        });
+        // 监听提交
+        form.on('submit(formDemo)', function (data) {
+            layer.msg(JSON.stringify(data.field));
+            return false;
+        });
+    });
+
+</script>
+</body>
+</html>

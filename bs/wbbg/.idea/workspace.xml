@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01a7322a-78ab-422a-a494-a9ecbd7da87c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wbbg/src/views/Main.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1681">
+              <caret line="75" column="54" selection-start-line="75" selection-start-column="54" selection-end-line="75" selection-end-column="54" />
+              <folding>
+                <element signature="n#el-submenu#1;n#el-menu#0;n#el-aside#0;n#el-container#0;n#template#0;n#!!top" />
+                <element signature="n#el-submenu#2;n#el-menu#0;n#el-aside#0;n#el-container#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#el-menu-item#0;n#el-menu#0;n#el-main#0;n#el-container#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wbbg/src/api/api.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wbbg/src/views/Mall/PaintIn.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="522" column="19" lean-forward="true" selection-start-line="522" selection-start-column="19" selection-end-line="522" selection-end-column="19" />
+              <folding>
+                <element signature="n#style#0;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#el-col#0;n#el-row#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#el-button#0;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-button#1;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-button#2;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#el-table#0;n#el-row#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#el-table#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#el-image#0;n#div#0;n#el-form-item#2;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#el-form-item#3;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+                <element signature="n#el-form-item#4;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#el-select#0;n#el-form-item#4;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#el-form-item#8;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#el-upload#0;n#el-form-item#10;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-select#0;n#el-form-item#13;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#el-dialog#1;n#el-row#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#el-upload#0;n#el-form-item#9;n#el-form#0;n#template#0;n#el-dialog#1;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-select#0;n#el-form-item#12;n#el-form#0;n#template#0;n#el-dialog#1;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#el-dialog#2;n#el-row#0;n#template#0;n#!!top" />
+                <element signature="n#el-pagination#0;n#el-row#0;n#template#0;n#!!top" />
+                <element signature="e#15343#17404#0" />
+                <element signature="e#17435#20003#0" />
+                <element signature="e#20030#20524#0" />
+                <element signature="e#20550#21073#0" />
+                <element signature="e#21102#21152#0" />
+                <element signature="e#21186#21424#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wbbg/src/views/Mall/PaintBrush.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="377" column="23" lean-forward="true" selection-start-line="377" selection-start-column="23" selection-end-line="377" selection-end-column="23" />
+              <folding>
+                <element signature="n#el-breadcrumb#0;n#el-row#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#el-col#0;n#el-row#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#el-button#0;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-button#1;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-button#2;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#el-table#0;n#el-row#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#el-table#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-button#0;n#template#0;n#el-table-column#8;n#el-table#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#el-image#0;n#div#0;n#el-form-item#2;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#el-form-item#4;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+                <element signature="n#el-form-item#4;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+                <element signature="n#el-form-item#5;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+                <element signature="n#el-form-item#6;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+                <element signature="n#el-form-item#7;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+                <element signature="n#el-dialog#1;n#el-row#0;n#template#0;n#!!top" />
+                <element signature="n#el-dialog#2;n#el-row#0;n#template#0;n#!!top" />
+                <element signature="n#el-pagination#0;n#el-row#0;n#template#0;n#!!top" />
+                <element signature="e#10221#11275#0" />
+                <element signature="e#11329#12610#0" />
+                <element signature="e#12637#12977#0" />
+                <element signature="e#12897#13213#0" />
+                <element signature="e#13242#13292#0" />
+                <element signature="e#13326#13568#0" />
+                <element signature="e#18290#18483#0" />
+                <element signature="e#18531#18716#0" />
+                <element signature="e#18746#18787#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wbbg/package.json" />
+        <option value="$PROJECT_DIR$/wbbg/src/App.vue" />
+        <option value="$PROJECT_DIR$/wbbg/src/api/method.js" />
+        <option value="$PROJECT_DIR$/wbbg/src/main.js" />
+        <option value="$PROJECT_DIR$/wbbg/src/main.vue" />
+        <option value="$PROJECT_DIR$/wbbg/src/views/passChange.vue" />
+        <option value="$PROJECT_DIR$/wbbg/src/views/main.vue" />
+        <option value="$PROJECT_DIR$/wbbg/src/views/IndexEdit.vue" />
+        <option value="$PROJECT_DIR$/wbbg/src/views/IndexExit.vue" />
+        <option value="$PROJECT_DIR$/wbbg/src/views/PassChange.vue" />
+        <option value="$PROJECT_DIR$/wbbg/src/views/Admin/Admin.vue" />
+        <option value="$PROJECT_DIR$/wbbg/src/views/Admin/PassChange.vue" />
+        <option value="$PROJECT_DIR$/wbbg/src/views/WebIndex/IndexExit.vue" />
+        <option value="$PROJECT_DIR$/wbbg/src/views/WebIndex/WebIndex.vue" />
+        <option value="$PROJECT_DIR$/wbbg/vue.config.js" />
+        <option value="$PROJECT_DIR$/wbbg/src/views/WebIndex/MoreEd.vue" />
+        <option value="$PROJECT_DIR$/wbbg/src/api/init.js" />
+        <option value="$PROJECT_DIR$/wbbg/src/views/Login.vue" />
+        <option value="$PROJECT_DIR$/wbbg/src/views/Serve/serve.vue" />
+        <option value="$PROJECT_DIR$/wbbg/src/views/Serve/Serve.vue" />
+        <option value="$PROJECT_DIR$/wbbg/src/views/Mall/Mall.vue" />
+        <option value="$PROJECT_DIR$/wbbg/src/router.js" />
+        <option value="$PROJECT_DIR$/wbbg/src/views/Main.vue" />
+        <option value="$PROJECT_DIR$/wbbg/src/views/Serve/NewServeOrder.vue" />
+        <option value="$PROJECT_DIR$/wbbg/src/views/WebIndex/LbtEd.vue" />
+        <option value="$PROJECT_DIR$/wbbg/src/views/WebIndex/ShowEd.vue" />
+        <option value="$PROJECT_DIR$/wbbg/src/views/Serve/ServeLbt.vue" />
+        <option value="$PROJECT_DIR$/wbbg/src/views/Mall/PaintOut.vue" />
+        <option value="$PROJECT_DIR$/wbbg/src/views/Mall/PaintWood.vue" />
+        <option value="$PROJECT_DIR$/wbbg/src/api/api.js" />
+        <option value="$PROJECT_DIR$/wbbg/src/views/Mall/PaintIn.vue" />
+        <option value="$PROJECT_DIR$/wbbg/src/views/Mall/PaintBrush.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="1930" />
+    <option name="height" value="1035" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wbbg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wbbg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wbbg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wbbg" type="462c0819:PsiDirectoryNode" />
+              <item name="wbbg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wbbg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wbbg" type="462c0819:PsiDirectoryNode" />
+              <item name="wbbg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wbbg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wbbg" type="462c0819:PsiDirectoryNode" />
+              <item name="wbbg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wbbg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wbbg" type="462c0819:PsiDirectoryNode" />
+              <item name="wbbg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wbbg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wbbg" type="462c0819:PsiDirectoryNode" />
+              <item name="wbbg" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="Mall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wbbg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wbbg_admin" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.VCS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dxy\Desktop\wbbg\wbbg" />
+      <recent name="C:\Users\dxy\Desktop\wbbg\wbbg\src\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dxy\Desktop\wbbg\wbbg\src\views\WebIndex" />
+      <recent name="C:\Users\dxy\Desktop\wbbg\wbbg\src\views\Admin" />
+      <recent name="C:\Users\dxy\Desktop\wbbg\wbbg\src\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01a7322a-78ab-422a-a494-a9ecbd7da87c" name="Default Changelist" comment="" />
+      <created>1585920800325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585920800325</updated>
+      <workItem from="1585920801560" duration="9664000" />
+      <workItem from="1585965262494" duration="40537000" />
+      <workItem from="1586054004304" duration="28833000" />
+      <workItem from="1586144081646" duration="21481000" />
+      <workItem from="1586225919721" duration="3665000" />
+      <workItem from="1586247196506" duration="10710000" />
+      <workItem from="1586317165395" duration="21589000" />
+      <workItem from="1586419084508" duration="22550000" />
+      <workItem from="1586516880801" duration="8642000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="167671000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16823056" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49932975" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wbbg/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7257" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/src/views/About.vue" />
+    <entry file="file://$PROJECT_DIR$/wbbg/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-123" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/babel.config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/src/views/Home.vue" />
+    <entry file="file://$PROJECT_DIR$/wbbg/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/src/views/WebIndex/IndexExit.vue" />
+    <entry file="file://$PROJECT_DIR$/wbbg/src/views/Admin/Admin.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/src/views/WebIndex/WebIndex.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/src/views/Admin/PassChange.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2009">
+          <caret line="91" column="9" lean-forward="true" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/src/views/WebIndex/MoreEd.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#1236#1408#0" />
+            <element signature="e#873#911#0" />
+            <element signature="e#938#1095#0" />
+            <element signature="e#1108#1184#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/src/api/init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="e#8#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/src/views/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="71" column="44" lean-forward="true" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#el-form#0;n#el-col#0;n#el-row#0;n#el-container#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-button#0;n#el-form-item#3;n#el-form#0;n#el-col#0;n#el-row#0;n#el-container#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/src/api/methods.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/src/views/Serve/Serve.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/src/views/Mall/Mall.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/src/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="108" column="40" selection-start-line="108" selection-start-column="40" selection-end-line="108" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#2214#2786#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/src/views/Serve/ServeLbt.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#el-button#0;n#el-row#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-table#0;n#template#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-button#1;n#template#0;n#el-table-column#3;n#el-table#0;n#template#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-image#0;n#div#0;n#el-form-item#2;n#el-form#0;n#template#0;n#el-dialog#0;n#template#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-dialog#1;n#template#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#el-form-item#2;n#el-form#0;n#template#0;n#el-dialog#1;n#template#0;n#el-row#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/src/views/WebIndex/LbtEd.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5453">
+          <caret line="204" column="54" selection-start-line="204" selection-start-column="54" selection-end-line="204" selection-end-column="54" />
+          <folding>
+            <element signature="n#style#0;n#el-button#0;n#el-row#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-table#0;n#template#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-table#0;n#template#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-button#1;n#template#0;n#el-table-column#3;n#el-table#0;n#template#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-image#0;n#div#0;n#el-form-item#2;n#el-form#0;n#template#0;n#el-dialog#0;n#template#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-dialog#1;n#template#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#el-form#0;n#template#0;n#el-dialog#1;n#template#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="e#6402#6630#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/src/views/WebIndex/ShowEd.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4346">
+          <caret line="161" column="14" selection-start-line="153" selection-start-column="11" selection-end-line="161" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#el-button#0;n#el-row#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-table#0;n#template#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-table-column#0;n#el-table#0;n#template#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#el-table-column#1;n#el-table#0;n#template#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-button#1;n#template#0;n#el-table-column#3;n#el-table#0;n#template#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-dialog#0;n#template#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-image#0;n#div#0;n#el-form-item#2;n#el-form#0;n#template#0;n#el-dialog#0;n#template#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#6437#6768#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/src/views/Serve/NewServeOrder.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3895">
+          <caret line="380" column="33" selection-start-line="380" selection-start-column="33" selection-end-line="380" selection-end-column="33" />
+          <folding>
+            <element signature="n#el-tab-pane#0;n#el-tabs#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-table#0;n#el-tab-pane#0;n#el-tabs#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-table#0;n#el-tab-pane#1;n#el-tabs#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-table#0;n#el-tab-pane#1;n#el-tabs#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-tab-pane#2;n#el-tabs#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#el-table#0;n#el-tab-pane#2;n#el-tabs#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-table#0;n#el-tab-pane#2;n#el-tabs#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-radio-group#0;n#el-form-item#2;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-form-item#5;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-select#0;n#el-form-item#6;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-date-picker#0;n#el-row#0;n#el-form-item#7;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-time-picker#0;n#el-form-item#0;n#el-form-item#7;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-pagination#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="e#11768#12789#0" />
+            <element signature="e#12812#13093#0" />
+            <element signature="e#13246#15975#0" />
+            <element signature="e#16002#16051#0" />
+            <element signature="e#16152#16551#0" />
+            <element signature="e#16577#16976#0" />
+            <element signature="e#17000#17503#0" />
+            <element signature="e#17525#18311#0" />
+            <element signature="e#18332#19126#0" />
+            <element signature="e#18392#18536#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/vue.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/src/views/Main.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1681">
+          <caret line="75" column="54" selection-start-line="75" selection-start-column="54" selection-end-line="75" selection-end-column="54" />
+          <folding>
+            <element signature="n#el-submenu#1;n#el-menu#0;n#el-aside#0;n#el-container#0;n#template#0;n#!!top" />
+            <element signature="n#el-submenu#2;n#el-menu#0;n#el-aside#0;n#el-container#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-menu-item#0;n#el-menu#0;n#el-main#0;n#el-container#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/src/views/Mall/PaintOut.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="434" column="18" selection-start-line="434" selection-start-column="18" selection-end-line="434" selection-end-column="18" />
+          <folding>
+            <element signature="n#el-breadcrumb#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-col#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-button#0;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-button#1;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-button#2;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-table#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-table#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-button#0;n#template#0;n#el-table-column#14;n#el-table#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-image#0;n#div#0;n#el-form-item#2;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-form-item#3;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#el-form-item#4;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-select#0;n#el-form-item#4;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-form-item#7;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#el-form-item#8;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-upload#0;n#el-form-item#10;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-select#0;n#el-form-item#12;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-select#0;n#el-form-item#13;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-dialog#1;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-upload#0;n#el-form-item#9;n#el-form#0;n#template#0;n#el-dialog#1;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-select#0;n#el-form-item#11;n#el-form#0;n#template#0;n#el-dialog#1;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-select#0;n#el-form-item#12;n#el-form#0;n#template#0;n#el-dialog#1;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-dialog#2;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#el-pagination#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="e#15384#17445#0" />
+            <element signature="e#15765#15956#0" />
+            <element signature="e#15986#16179#0" />
+            <element signature="e#16372#16565#0" />
+            <element signature="e#16597#16790#0" />
+            <element signature="e#17476#20044#0" />
+            <element signature="e#18449#18642#0" />
+            <element signature="e#18835#19028#0" />
+            <element signature="e#19060#19253#0" />
+            <element signature="e#19286#19389#0" />
+            <element signature="e#19420#19611#0" />
+            <element signature="n#style#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/src/views/Mall/PaintWood.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1597">
+          <caret line="369" column="101" selection-start-line="369" selection-start-column="101" selection-end-line="369" selection-end-column="101" />
+          <folding>
+            <element signature="n#el-breadcrumb#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-button#0;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-button#1;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-button#2;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-table#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-table#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-image#0;n#div#0;n#el-form-item#2;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-form-item#3;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#el-form-item#4;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-select#0;n#el-form-item#4;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-form-item#8;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-upload#0;n#el-form-item#10;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-select#0;n#el-form-item#13;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-upload#0;n#el-form-item#9;n#el-form#0;n#template#0;n#el-dialog#1;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-select#0;n#el-form-item#12;n#el-form#0;n#template#0;n#el-dialog#1;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-dialog#2;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#el-pagination#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="e#15385#17446#0" />
+            <element signature="e#20072#20566#0" />
+            <element signature="e#20592#21115#0" />
+            <element signature="e#21328#21576#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/src/api/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/src/views/Mall/PaintIn.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="522" column="19" lean-forward="true" selection-start-line="522" selection-start-column="19" selection-end-line="522" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-col#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-button#0;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-button#1;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-button#2;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-table#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-table#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-image#0;n#div#0;n#el-form-item#2;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-form-item#3;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#el-form-item#4;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-select#0;n#el-form-item#4;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-form-item#8;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-upload#0;n#el-form-item#10;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-select#0;n#el-form-item#13;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-dialog#1;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-upload#0;n#el-form-item#9;n#el-form#0;n#template#0;n#el-dialog#1;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-select#0;n#el-form-item#12;n#el-form#0;n#template#0;n#el-dialog#1;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-dialog#2;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#el-pagination#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="e#15343#17404#0" />
+            <element signature="e#17435#20003#0" />
+            <element signature="e#20030#20524#0" />
+            <element signature="e#20550#21073#0" />
+            <element signature="e#21102#21152#0" />
+            <element signature="e#21186#21424#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wbbg/src/views/Mall/PaintBrush.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="377" column="23" lean-forward="true" selection-start-line="377" selection-start-column="23" selection-end-line="377" selection-end-column="23" />
+          <folding>
+            <element signature="n#el-breadcrumb#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-col#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-button#0;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-button#1;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-button#2;n#el-col#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-table#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-table#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-button#0;n#template#0;n#el-table-column#8;n#el-table#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#el-image#0;n#div#0;n#el-form-item#2;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-form-item#4;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#el-form-item#4;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#el-form-item#5;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#el-form-item#6;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#el-form-item#7;n#el-form#0;n#template#0;n#el-dialog#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#el-dialog#1;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#el-dialog#2;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="n#el-pagination#0;n#el-row#0;n#template#0;n#!!top" />
+            <element signature="e#10221#11275#0" />
+            <element signature="e#11329#12610#0" />
+            <element signature="e#12637#12977#0" />
+            <element signature="e#12897#13213#0" />
+            <element signature="e#13242#13292#0" />
+            <element signature="e#13326#13568#0" />
+            <element signature="e#18290#18483#0" />
+            <element signature="e#18531#18716#0" />
+            <element signature="e#18746#18787#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

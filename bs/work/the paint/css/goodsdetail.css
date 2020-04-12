@@ -1,0 +1,99 @@
+@import "common.css";
+html,body{
+    width: 100%;
+    height:100%;
+}
+a{
+    text-decoration: none!important;
+}
+.sc_index{
+    margin: 150px auto;
+    padding: 30px;
+    width: 45vw;
+    height: auto;
+    overflow: hidden;
+    background: url('https://www.dulux.com.cn/profiles/flourish/themes/custom/flourish_rem/images/vertical-shade.jpg');
+}
+.goods_title{
+    margin-bottom: 20px;
+    font-size: 32px;
+}
+.sc_index_img{
+    float:left;
+    padding:20px;
+    margin-right: 20px;
+    width: 45%;
+    height: 100%;
+
+}
+.sc_index_img img{
+    display: block;
+    text-align: center;
+    width: 60%;
+    height: 100%;
+}
+.sc_index_option{
+    padding: 20px;
+    background: white;
+    margin-top: 20px;
+    float:right;
+    width: 40%;
+    height: 100%;
+    border-radius: 10px;
+}
+.sc_index_option_submit{
+    float:right;
+    width: 95%;
+}
+.goods_submit_button{
+    width: 100%;
+    height: 100%;
+}
+.sc_index_option h3{
+    text-align: center;
+}
+.layui-form{
+    margin: 20px auto;
+}
+.sc_desc{
+    margin: 0 auto 80px auto;
+    width: 80vw;
+    height:60vh;
+}
+.sc_desc_left{
+    padding: 20px;
+    float:left;
+    margin-right: 20px;
+    width: 55%;
+    height: 100%;
+    background: #fcfafa;
+    border-radius: 10px;
+    box-shadow: 0 0 5px;
+}
+.sc_desc_right{
+    padding:20px;
+    float:right;
+    width: 35%;
+    height: 100%;
+    /*background: #2e6da4;*/
+}
+.product_introduce h2{
+    margin: 20px 0;
+}
+.product_introduce p{
+    color: #666;
+}
+.detail_introduce{
+    margin-top: 50px;
+}
+#product_explain{
+    display: block;
+    width: 100%;
+    height: 100%;
+    font-size: 19px;
+    margin-left: 38px;
+    color:#2fc48d;
+}
+#product_explain:hover{
+    color:#333;
+}

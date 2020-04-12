@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="../layui/css/layui.css">
+    <style>
+        html,body{
+            height:100%
+        }
+        div{
+            text-align: center;
+            margin-top: 200px;
+        }
+        .search_input{
+            width: 60%;
+        }
+    </style>
+</head>
+<body>
+<div>
+    <form class="layui-form" action="">
+        <div class="layui-form-item search_input">
+            <div class="layui-input-block" style="margin-left: 350px">
+                <input type="text" name="title" required  lay-verify="required" placeholder="请输入标题" autocomplete="off" class="layui-input">
+            </div>
+        </div>
+    </form>
+</div>
+<script src="../layui/layui.js"></script>
+</body>
+</html>
